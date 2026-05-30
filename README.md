@@ -111,7 +111,8 @@ Each residual block: `Conv1D (causal, dilated) → BatchNorm → ReLU → Dropou
 
 ```
 ├── Sleep_Stage_Classification_using_TCN_with_Stratified_Splitting.ipynb
-├── report.pdf
+├── Sleep_Stage_Classification_using_TCN_Report.pdf
+├── images/
 └── README.md
 ```
 
